@@ -46,7 +46,7 @@ local.properties
 [Dd]ebug/
 [Rr]elease/
 x64/
-build/
+*/build/
 [Bb]in/
 [Oo]bj/
 
@@ -213,3 +213,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+/p2pvpn/nbproject/private/
